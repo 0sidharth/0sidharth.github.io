@@ -10,7 +10,7 @@ google_analytics: "UA-20365477-4"
 disqus_account: sidharthmundhra
 github_repository: https://github.com/0sidharth/0sidharth.github.io
 addthis_id: ra-513c6fa83da6ec67
-post_limit: 0
+post_limit: 5
 
 # Social usernames/URLs
 twitter_username:
@@ -24,7 +24,6 @@ xing_link:
 facebook_link: https://www.facebook.com/blankhhh/
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/0sidharth/0sidharth.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
