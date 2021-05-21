@@ -9,7 +9,7 @@ categories: jekyll
 thumbnail:  heart
 tags:
  - gsoc
- - sympy
+ - SymPy
 ---
 
 So, the results are finally out. My project proposal has been selected for GSoC '21,
